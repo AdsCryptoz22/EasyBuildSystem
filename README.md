@@ -1,5 +1,4 @@
 # Easy Build System
-Release : 4.0
 
 [![](https://gyazo.com/6ac23b9b88f2ddcaf90799cbb7e1f224.png)](https://www.assetstore.unity3d.com/#!/content/71391)
 
