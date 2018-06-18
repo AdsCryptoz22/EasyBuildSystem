@@ -16,14 +16,25 @@ Use the Issues tab to report any issues, bugs, or to post suggestions requests.
 
 Easy Build System is a modular building system, it is possible to add your own modular elements or to use the available templates.
 
+It is possible to use the [Quick Start](https://www.adsstudio12.net/) functions as well as [Quick Start For Integrations](https://www.adsstudio12.net/), which will save you time, it will allow to use the system with defaults.
+
+Requires only a Main Camera as well as a [Build Manager](https://www.adsstudio12.net/) to work, it is very well out of box.
+
+A terrain detection system can be configured on your shares to avoid collision with the terrain, there is also a physics system with conditions can be added to your parts.
+
 It supports actions in the first person, third and top down with basic actions.
+
+Integrations are available such as [Inventory Pro](https://www.assetstore.unity3d.com/en/?stay#!/content/66801) or uNet.
+Some examples scenes are included in the package or you can use the Quick Start function for integrations.
 
 It is possible to save and load all your build during the runtime in your scene, a system of [Blueprint](https://www.adsstudio12.net/) is also possible if you want to load constructions directly in edittime or to your friends...
 
 The use of the system is simple, but it is very important to understand how it works to have a complex investment behavior.
 The guides and the wiki are available for this.
 
-It is also possible to use add-ons or create your own add-ons without importing a change in the system code.
+Use add-ons or create your own add-ons without importing a change in the system code.
+
+Like the add-on AOE available in the repository, which will significantly increase your performance on scenes where you have a lot of parts, or other add-ons like the The Forest Like example [Here](https://www.youtube.com/watch?v=GMeZ9TLTIsQ).
 
 It is recommended to consult the [Release Notes](https://www.adsstudio12.net/) to know all about the current version.
 
