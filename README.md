@@ -1,6 +1,6 @@
 # Unity 5 - Easy Build System
 
-[![](https://gyazo.com/6ac23b9b88f2ddcaf90799cbb7e1f224.png)](https://www.assetstore.unity3d.com/#!/content/71391)
+[![](https://gyazo.com/6510e91979bfdd8cca26947949d71bb5.png)](https://www.assetstore.unity3d.com/#!/content/45394)
 
 [Asset Store Link](https://www.assetstore.unity3d.com/#!/content/45394) | [Support Link](https://www.assetstore.unity3d.com/#!/content/45394) | [Facebook Link](https://www.facebook.com/AdsStudioQuebec/)
 
