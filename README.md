@@ -36,6 +36,8 @@ Use add-ons or create your own add-ons without importing a change in the system 
 
 Like the add-on AOE available in the repository, which will significantly increase your performance on scenes where you have a lot of parts, or other add-ons like the [The Forest Like](https://www.youtube.com/watch?v=GMeZ9TLTIsQ).
 
+Other features are available you can view the asset description for that.
+
 It is recommended to consult the [Release Notes](https://www.adsstudio12.net/) to know all about the current version.
 
 In case of problems/suggestions do not hesitate to contact us.
