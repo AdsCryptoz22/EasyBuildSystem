@@ -23,7 +23,7 @@ It is possible to use the [Quick Start](https://www.adsstudio12.net/) functions 
 
 A terrain detection system can be configured on your parts to avoid the collision with the terrain, there is also a physics system with conditions can be added to your parts.
 
-Integrations are available such as [Inventory Pro](https://www.assetstore.unity3d.com/en/?stay#!/content/66801) or uNet.
+Integrations are available such as [Inventory Pro](https://www.assetstore.unity3d.com/en/?stay#!/content/66801), [Voxeland](https://www.assetstore.unity3d.com/en/?stay#!/content/9180) or uNet.
 Some examples scenes are included in the package or you can use the Quick Start function for integrations.
 
 It is possible to save and load all your build during the runtime in your scene, 
