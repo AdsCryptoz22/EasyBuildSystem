@@ -25,6 +25,6 @@ The guides and the wiki are available for this.
 
 It is also possible to use add-ons or create your own add-ons without importing a change in the system code.
 
-It is recommended to consult the release notes to know all about the current version.
+It is recommended to consult the [Release Notes](https://www.adsstudio12.net/) to know all about the current version.
 
 In case of problem / suggestions do not hesitate to contact us.
