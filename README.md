@@ -27,4 +27,4 @@ It is also possible to use add-ons or create your own add-ons without importing 
 
 It is recommended to consult the [Release Notes](https://www.adsstudio12.net/) to know all about the current version.
 
-In case of problem / suggestions do not hesitate to contact us.
+In case of problems/suggestions do not hesitate to contact us.
