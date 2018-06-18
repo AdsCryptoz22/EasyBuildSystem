@@ -21,7 +21,7 @@ It is possible to use the [Quick Start](https://www.adsstudio12.net/) functions 
 
 Requires only a Main Camera as well as a [Build Manager](https://www.adsstudio12.net/) to work, it is very well out of box.
 
-A terrain detection system can be configured on your shares to avoid collision with the terrain, there is also a physics system with conditions can be added to your parts.
+A terrain detection system can be configured on your parts to avoid the collision with the terrain, there is also a physics system with conditions can be added to your parts.
 
 Integrations are available such as [Inventory Pro](https://www.assetstore.unity3d.com/en/?stay#!/content/66801) or uNet.
 Some examples scenes are included in the package or you can use the Quick Start function for integrations.
