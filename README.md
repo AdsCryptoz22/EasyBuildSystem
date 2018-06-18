@@ -26,7 +26,7 @@ A terrain detection system can be configured on your shares to avoid collision w
 Integrations are available such as [Inventory Pro](https://www.assetstore.unity3d.com/en/?stay#!/content/66801) or uNet.
 Some examples scenes are included in the package or you can use the Quick Start function for integrations.
 
-It is possible to save and load all your build during the runtime in your scene, a system of [Blueprint](https://www.adsstudio12.net/) is also possible if you want to load constructions directly in edittime or to your friends...
+It is possible to save and load all your build during the runtime in your scene, a system of [Blueprint](https://www.adsstudio12.net/) is also possible if you want to load constructions directly in edit/runtimes.
 
 The use of the system is simple, but it is very important to understand how it works to have a complex investment behavior.
 The guides and the wiki are available for this.
