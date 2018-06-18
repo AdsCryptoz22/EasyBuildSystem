@@ -17,7 +17,7 @@ Use the Issues tab to report any Issues, Bugs, or to post Suggestions requests.
 Easy Build System is a modular building system, it is possible to add your own modular elements or to use the available templates.
 It supports first-person, third-person actions, as well as simple top-down actions.
 
-Requires only a Main Camera as well as a [Build Manager](https://www.adsstudio12.net/) to work, it is very well out of box.
+Requires only a Main Camera as well as a [Build Manager](https://www.adsstudio12.net/) to work, it is very well out of the box.
 
 It is possible to use the [Quick Start](https://www.adsstudio12.net/) functions as well as [Quick Start For Integrations](https://www.adsstudio12.net/), which will save you time, it will allow to use the system with the defaults settings.
 
@@ -34,7 +34,7 @@ The guides and the wiki are available for this.
 
 Use add-ons or create your own add-ons without importing a change in the system code.
 
-Like the add-on AOE available in the repository, which will significantly increase your performance on scenes where you have a lot of parts, or other add-ons like the [The Forest Like](https://www.youtube.com/watch?v=GMeZ9TLTIsQ).
+Like the add-on AOE available in the repository, which will significantly increase your performance of your scenes if you have a lot of parts, or other add-ons like the [The Forest Like](https://www.youtube.com/watch?v=GMeZ9TLTIsQ).
 
 Other features are available you can view the asset description for that.
 
