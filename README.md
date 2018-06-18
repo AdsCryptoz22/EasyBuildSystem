@@ -30,7 +30,6 @@ It is possible to save and load all your build during the runtime in your scene,
 A system of [Blueprint](https://www.adsstudio12.net/) is also possible if you want to load constructions directly in edit/runtimes.
 
 The use of the system is simple, but it is very important to understand how it works to have a complex investment behavior.
-The guides and the wiki are available for this.
 
 Use add-ons or create your own add-ons without importing a change in the system code.
 
