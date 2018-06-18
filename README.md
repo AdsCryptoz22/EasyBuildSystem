@@ -25,7 +25,7 @@ A terrain detection system can be configured on your parts to avoid the collisio
 
 Integrations are available such as [Inventory Pro](https://www.assetstore.unity3d.com/en/?stay#!/content/66801) or [Voxeland](https://www.assetstore.unity3d.com/en/?stay#!/content/9180) and other.
 
-Some examples scenes are included in the package or you can use the Quick Start function for integrations.
+Some examples scenes are included in the package or you can use the [Quick Start](https://www.adsstudio12.net/) function for integrations.
 
 It is possible to save and load all your build during the runtime in your scene, 
 A system of [Blueprint](https://www.adsstudio12.net/) is also possible if you want to load constructions directly in edit/runtimes.
