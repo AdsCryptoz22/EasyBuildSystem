@@ -4,7 +4,7 @@
 
 [Asset Store Link](https://www.assetstore.unity3d.com/#!/content/45394) | [Support Link](https://www.assetstore.unity3d.com/#!/content/45394) | [Facebook Link](https://www.facebook.com/AdsStudioQuebec/)
 
-## What Is This?
+## What Is This ?
 
 This is a repository of Easy Build System, it will contain some hotfixes, add-ons, utilities.
 
@@ -12,17 +12,16 @@ It is also possible to access to Wiki [here](https://github.com/), if you've que
 
 Use the Issues tab to report any issues, bugs, or to post suggestions requests.
 
-### About This?
+### About This ?
 
 Easy Build System is a modular building system, it is possible to add your own modular elements or to use the available templates.
+It supports first-person, third-person actions, as well as simple top-down actions.
 
 It is possible to use the [Quick Start](https://www.adsstudio12.net/) functions as well as [Quick Start For Integrations](https://www.adsstudio12.net/), which will save you time, it will allow to use the system with defaults.
 
 Requires only a Main Camera as well as a [Build Manager](https://www.adsstudio12.net/) to work, it is very well out of box.
 
 A terrain detection system can be configured on your shares to avoid collision with the terrain, there is also a physics system with conditions can be added to your parts.
-
-It supports actions in the first person, third and top down with basic actions.
 
 Integrations are available such as [Inventory Pro](https://www.assetstore.unity3d.com/en/?stay#!/content/66801) or uNet.
 Some examples scenes are included in the package or you can use the Quick Start function for integrations.
