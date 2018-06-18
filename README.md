@@ -8,9 +8,9 @@
 
 This is a repository of Easy Build System, it will contain some hotfixes, add-ons, utilities.
 
-It is also possible to access to Wiki [here](https://github.com/), if you've questions contact us [here](https://www.adsstudio12.net/).
+It is also possible to access to [Wiki](https://github.com/).
 
-Use the Issues tab to report any issues, bugs, or to post suggestions requests.
+Use the Issues tab to report any Issues, Bugs, or to post Suggestions requests.
 
 ### About This ?
 
