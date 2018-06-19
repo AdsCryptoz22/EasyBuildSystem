@@ -23,7 +23,9 @@ It is possible to use the [Quick Start](https://www.adsstudio12.net/) functions 
 It will allow to use the system with the defaults settings.
 
 Some examples scene are available in the package to show you how certain components work.
+
 The use of the system is simple, but it is very important to understand how it works to have a complex investment behavior.
+
 Other features are available you can view the asset description for that.
 
 In case of problems/suggestions do not hesitate to contact us.
