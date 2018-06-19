@@ -24,8 +24,8 @@ It is possible to use the [Quick Start](https://www.adsstudio12.net/) functions 
 
 This will allow to use the system with the defaults settings.
 
-The use of the system is simple, but it is very important to understand how it works to have a complex behavior.<br/>
+The use of the system is simple, but it is very important to understand if you hope configure the system for have a complex behaviour.
 
-Consult all the features of system available on the [Asset Store](https://www.assetstore.unity3d.com/#!/content/45394) for that.<br/>
+Consult all the features of system available on the [Asset Store](https://www.assetstore.unity3d.com/#!/content/45394) for that.
 
 In case of problems/suggestions do not hesitate to contact us.
