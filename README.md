@@ -15,9 +15,7 @@ Use the Issues tab to report any Issues, Bugs, or to post Suggestions requests.
 ### About This ?
 
 Easy Build System is a modular building system, it is possible to add your own modular elements or to use the templates.
-
 It supports the actions at the First Person, Third Person, as well as Top Down.
-
 Requires a Main Camera as well as a [Build Manager](https://www.adsstudio12.net/) to work, perfect for work out of the box.
 
 It is possible to use the [Quick Start](https://www.adsstudio12.net/) functions as well as [Quick Start For Integrations](https://www.adsstudio12.net/), which will save you time.
@@ -25,9 +23,7 @@ It is possible to use the [Quick Start](https://www.adsstudio12.net/) functions 
 It will allow to use the system with the defaults settings.
 
 Some examples scene are available in the package to show you how certain components work.
-
 The use of the system is simple, but it is very important to understand how it works to have a complex investment behavior.
-
 Other features are available you can view the asset description for that.
 
 In case of problems/suggestions do not hesitate to contact us.
