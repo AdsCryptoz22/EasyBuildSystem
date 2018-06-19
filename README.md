@@ -10,7 +10,7 @@ This is a repository of **Easy Build System**, it will contain some hotfixes, ad
 
 It is also possible to access to [Wiki](https://github.com/).
 
-Use the Issues tab to report any Issues, Bugs, or to post Suggestions requests.
+Use the Issues tab to report any Issues, Bugs, Suggestions requests.
 
 ### About This ?
 
