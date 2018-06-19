@@ -1,4 +1,4 @@
-# Unity 5 - Easy Build System
+# Easy Build System - Modular Building System
 
 [![](https://gyazo.com/6510e91979bfdd8cca26947949d71bb5.png)](https://www.assetstore.unity3d.com/#!/content/45394)
 
