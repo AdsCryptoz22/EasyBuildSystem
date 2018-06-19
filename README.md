@@ -39,6 +39,4 @@ Use add-ons or create your own add-ons without importing a change in the system 
 
 Other features are available you can view the asset description for that.
 
-It is recommended to consult the [Release Notes](https://www.adsstudio12.net/) to know all about the current version.
-
 In case of problems/suggestions do not hesitate to contact us.
