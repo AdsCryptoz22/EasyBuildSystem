@@ -6,7 +6,7 @@
 
 ## What Is This ?
 
-This is a repository of Easy Build System, it will contain some hotfixes, add-ons, and some utilities.
+This is a repository of ### Easy Build System, it will contain some hotfixes, add-ons, and some utilities.
 
 It is also possible to access to [Wiki](https://github.com/).
 
