@@ -24,18 +24,9 @@ It is possible to use the [Quick Start](https://www.adsstudio12.net/) functions 
 
 It will allow to use the system with the defaults settings.
 
-Some samples are available in the package to show you how certain components work.
-
-A terrain detection system can be configured on your parts to avoid the collision with the terrain (details/trees), there is also a physics system with conditions can be added to your parts.
-
-Integrations are available such as [Inventory Pro](https://www.assetstore.unity3d.com/en/?stay#!/content/66801) or [Voxeland](https://www.assetstore.unity3d.com/en/?stay#!/content/9180) and other.
-
-It is possible to save and load all your build during the runtime in your scene, 
-A system of [Blueprint](https://www.adsstudio12.net/) is also possible if you want to load constructions directly in edit/runtimes.
+Some examples scene are available in the package to show you how certain components work.
 
 The use of the system is simple, but it is very important to understand how it works to have a complex investment behavior.
-
-Use add-ons or create your own add-ons without importing a change in the system code.
 
 Other features are available you can view the asset description for that.
 
