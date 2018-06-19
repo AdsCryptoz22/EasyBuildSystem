@@ -23,7 +23,7 @@ It is possible to use the [Quick Start](https://www.adsstudio12.net/) functions 
 It will allow to use the system with the defaults settings.
 
 Some examples scene are available in the package to show you how certain components work.<br/>
-The use of the system is simple, but it is very important to understand how it works to have a complex investment behavior.<br/><br/>
+The use of the system is simple, but it is very important to understand how it works to have a complex investment behavior.<br/>
 
 Consult all the features of system available on the [Asset Store Page](https://www.assetstore.unity3d.com/#!/content/45394) for that.<br/>
 
