@@ -26,7 +26,7 @@ It will allow to use the system with the defaults settings.
 
 Some samples are available in the package to show you how certain components work.
 
-A terrain detection system can be configured on your parts to avoid the collision with the terrain, there is also a physics system with conditions can be added to your parts.
+A terrain detection system can be configured on your parts to avoid the collision with the terrain (details/trees), there is also a physics system with conditions can be added to your parts.
 
 Integrations are available such as [Inventory Pro](https://www.assetstore.unity3d.com/en/?stay#!/content/66801) or [Voxeland](https://www.assetstore.unity3d.com/en/?stay#!/content/9180) and other.
 
