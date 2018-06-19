@@ -20,7 +20,9 @@ It supports the actions at the First Person, Third Person, as well as Top Down.
 
 Requires a Main Camera as well as a [Build Manager](https://www.adsstudio12.net/) to work, perfect for work out of the box.
 
-It is possible to use the [Quick Start](https://www.adsstudio12.net/) functions as well as [Quick Start For Integrations](https://www.adsstudio12.net/), which will save you time, it will allow to use the system with the defaults settings.
+It is possible to use the [Quick Start](https://www.adsstudio12.net/) functions as well as [Quick Start For Integrations](https://www.adsstudio12.net/), which will save you time.
+
+It will allow to use the system with the defaults settings.
 
 Some samples are available in the package to show you how certain components work.
 
