@@ -8,9 +8,9 @@
 
 This is a repository of **Easy Build System**, it will contain some hotfixes, add-ons, and some utilities.
 
-It is also possible to access to [Wiki](https://github.com/).
+It is also possible to access to [Wiki](https://github.com/) to have information about the components of the system.
 
-Use the Issues tab to report any Issues, Bugs, Suggestions requests.
+You can use the Issues tab to report any Issues/Bugs/Suggestions requests.
 
 ### About This ?
 
