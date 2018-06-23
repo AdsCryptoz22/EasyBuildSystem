@@ -12,7 +12,7 @@ It is also possible to access to [Wiki](https://github.com/) to have information
 
 You can use the Issues tab to report any Issues/Bugs/Suggestions requests.
 
-### About This ?
+### About ?
 
 **Easy Build System** is a modular building system, it is possible to add your own modular elements or to use the templates.
 
