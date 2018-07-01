@@ -18,7 +18,7 @@ You can use the Issues tab to report any Issues/Bugs/Suggestions requests.
 
 The system currently supports the actions at the **First Person**, **Third Person**, as well as **Top Down**.
 
-Easy to use is working perfectly out of the box thanks to the [Quick Start](https://www.adsstudio12.net/) function.
+Easy to use is working perfectly out of the box with the [Quick Start](https://www.adsstudio12.net/) function.
 
 All the features of system available on the [Asset Store](https://www.assetstore.unity3d.com/#!/content/45394).
 
