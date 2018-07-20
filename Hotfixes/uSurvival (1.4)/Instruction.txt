@@ -1,5 +1,0 @@
-Replace this files by the old.
-
-BuildingItem by old file (Easy Build System\Samples & Integrations\Integrations\uSurvival\Scripts)
-
-AddonUSurvial by old file (Easy Build System\Samples & Integrations\Integrations\uSurvival\Scripts\Add-Ons)
