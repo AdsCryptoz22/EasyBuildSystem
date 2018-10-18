@@ -7,7 +7,6 @@
 ## What Is This ?
 
 This is a repository of **Easy Build System**, it contains some hotfixes, add-ons, and some utilities.
-
 It is also possible to access to [Wiki](https://github.com/AdsCryptoz22/EasyBuildSystem/wiki) to have information about the components of the system.
 
 You can use the Issues tab to report any Issues/Bugs/Suggestions requests.
@@ -15,7 +14,6 @@ You can use the Issues tab to report any Issues/Bugs/Suggestions requests.
 ### About ?
 
 **Easy Build System** is a modular building system, it is possible to add your own modular elements or to use the templates.
-
 The system currently supports the actions at the **First Person**, **Third Person**, as well as **Top Down**.
 
 Easy to use is working perfectly out of the box with the [Quick Start](https://github.com/AdsCryptoz22/EasyBuildSystem/wiki/Quick-Start) function.
