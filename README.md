@@ -21,5 +21,3 @@ The system currently supports the actions at the **First Person**, **Third Perso
 Easy to use is working perfectly out of the box with the [Quick Start](https://github.com/AdsCryptoz22/EasyBuildSystem/wiki/Quick-Start) function.
 
 All the features of system available on the [Asset Store](https://www.assetstore.unity3d.com/#!/content/45394).
-
-In case of problems/suggestions do not hesitate to contact us.
