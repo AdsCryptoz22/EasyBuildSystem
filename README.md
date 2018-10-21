@@ -13,8 +13,10 @@ You can use the Issues tab to report any Issues/Bugs/Suggestions requests.
 
 ### About ?
 
-**Easy Build System** is a modular building system, it is possible to add your own modular elements or to use the templates.
-The system currently supports the actions at the **First Person**, **Third Person**, as well as **Top Down**.
+Advanced modular building system in real-time, allows the placement, destruction, editing of your own prefabs.
+Supports three type of behaviours (First, Third Person also that Top Down View).
+Easy to use is working perfectly out of the box with the Quick Start function.
+Compatible on Desktop, Mobile also that WebGL.
 
 Easy to use is working perfectly out of the box with the [Quick Start](https://github.com/AdsCryptoz22/EasyBuildSystem/wiki/Quick-Start) function.
 
