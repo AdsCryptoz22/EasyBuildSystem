@@ -13,9 +13,9 @@ You can use the Issues tab to report any Issues/Bugs/Suggestions requests.
 
 ### About ?
 
-Advanced modular building system in real-time, allows the placement, destruction, editing of your own prefabs.
-Supports three type of behaviours (First, Third Person also that Top Down View).
-Easy to use is working perfectly out of the box with the Quick Start function.
+Advanced modular building system in real-time, allows the placement, destruction, editing of your own prefabs.<br>
+Supports three type of behaviours (First, Third Person also that Top Down View).<br>
+Easy to use is working perfectly out of the box with the Quick Start function.<br>
 Compatible on Desktop, Mobile also that WebGL.
 
 Easy to use is working perfectly out of the box with the [Quick Start](https://github.com/AdsCryptoz22/EasyBuildSystem/wiki/Quick-Start) function.
