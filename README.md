@@ -4,10 +4,8 @@
 
 ## What Is This ?
 
-This is a repository of **Easy Build System**, it contains some hotfixes, add-ons, and some utilities.
-
+This is a repository of **Easy Build System**, it contains some hotfixes, add-ons, and some utilities.<br>
 It is also possible to access to [Wiki](https://github.com/AdsCryptoz22/EasyBuildSystem/wiki) to have information about the components of the system.
-
 You can use the Issues tab to report any Issues/Bugs/Suggestions requests.
 
 ### About ?
