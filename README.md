@@ -4,15 +4,14 @@
 
 ## What Is This ?
 
-This is a repository of **Easy Build System**, it contains some hotfixes, add-ons, and some utilities.<br>
-It is also possible to access to [Wiki](https://github.com/AdsCryptoz22/EasyBuildSystem/wiki) to have information about the components of the system.<br>
+This is a repository of **Easy Build System**, it contains documentation, tutorials, you will find all you've need [Here](https://github.com/AdsCryptoz22/EasyBuildSystem/wiki).<br>
 You can use the Issues tab to report any Issues/Bugs/Suggestions requests.
 
 ### About ?
 
-Advanced modular building system in real-time, allows the placement, destruction, editing of your own prefabs.<br>
+Advanced modular building system, allows the placement, destruction, editing of your own prefabs.<br>
 Supports three type of behaviours (First, Third Person also that Top Down View).<br>
 
-Easy to use is working perfectly out of the box with the [Quick Start](https://github.com/AdsCryptoz22/EasyBuildSystem/wiki/Quick-Start) function.
+Easy to use fully designed to work out of the box with the [Quick Start](https://github.com/AdsCryptoz22/EasyBuildSystem/wiki/Quick-Start) feature.
 
 All the features of system available on the [Asset Store](https://assetstore.unity.com/packages/templates/systems/easy-build-system-modular-building-system-45394).
